@@ -31,6 +31,4 @@ Password:password
 
 The database is an .sql file in the root folder of the project, it might take some time because it contains a huge amount of data, import the file in your database and wait for it.
 
-## Tutorial :
-https://www.youtube.com/watch?v=ZQXuit0n3jE&t
 
